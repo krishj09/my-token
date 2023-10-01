@@ -1,5 +1,3 @@
-Sure, here's an improved README file with a table of contents (TOC) for better navigation:
-
 # MyToken Smart Contract README
 
 - [Introduction](#introduction)
