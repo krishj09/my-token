@@ -1,6 +1,21 @@
-# my-token
+Sure, here's an improved README file with a table of contents (TOC) for better navigation:
 
 # MyToken Smart Contract README
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Instructions](#instructions)
+    - [1. Open Remix IDE](#1-open-remix-ide)
+    - [2. Create a New File](#2-create-a-new-file)
+    - [3. Paste the Smart Contract Code](#3-paste-the-smart-contract-code)
+    - [4. Compile the Smart Contract](#4-compile-the-smart-contract)
+    - [5. Deploy the Smart Contract](#5-deploy-the-smart-contract)
+    - [6. Interact with the Smart Contract](#6-interact-with-the-smart-contract)
+        - [Mint Tokens](#mint-tokens)
+        - [Burn Tokens](#burn-tokens)
+    - [7. View Token Balances](#7-view-token-balances)
+
+## Introduction
 
 This README provides instructions on how to compile, deploy, and interact with the `MyToken` smart contract using Remix IDE, a popular web-based Solidity development environment. The `MyToken` contract is a simple Ethereum-based token that allows you to mint and burn tokens.
 
