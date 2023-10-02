@@ -1,6 +1,6 @@
 ### Introduction
 
-This README provides instructions on how to compile, deploy, and interact with the `MyToken` smart contract using Remix IDE, a popular web-based Solidity development environment. The `MyToken` contract is a simple Ethereum-based token that allows you to mint and burn tokens.
+This are instructions on how to compile, deploy, and interact with the `MyToken` smart contract using Remix IDE, a popular web-based Solidity development environment. The `MyToken.sol` contract is a simple Ethereum-based token that allows you to mint and burn tokens.
 
 ### Instructions
 
